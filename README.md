@@ -2,7 +2,7 @@
           --RMSTeam
 -----------------------------------------------------------------
 
-This is the working code for classification done by using past bahaviour, which we implemented for  machine learning contest.
+This is the working code for classification done by using past behaviour, which we implemented for  machine learning contest.
 To run this code after installing sklearn, please type this command in your terminal
 >	python fisher.py
 
